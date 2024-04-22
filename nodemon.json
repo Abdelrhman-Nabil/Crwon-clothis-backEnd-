@@ -1,0 +1,10 @@
+{
+    "env":{
+        "DB_USER":"boka0505",               
+        "DB_PASSWORD":"boka0505",
+        "DB_NAME":"Crown",
+        "SECRET_KEY":"sk_test_51P8OHWF5mVSwArO45ORfMAOGz2zmPd3stgYietOQKkn7i3RbXGu4e6zpTsrogFedMVvgRiyzgkLeEneJ7czJRyfr007JIssOR9"
+
+    }
+
+}
