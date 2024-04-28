@@ -64,8 +64,8 @@ router.post('/create-checkout-session', async (req, res) => {
           ],
       line_items,
       mode: 'payment',
-      success_url: `https://crownclothis-a5798.web.app/checkOut-success`,
-      cancel_url: `https://crownclothis-a5798.web.app/checkout`,
+      success_url: `https://crown-2024.web.app/checkOut-success`,
+      cancel_url: `https://crown-2024.web.app/checkout`,
 
     });
   
